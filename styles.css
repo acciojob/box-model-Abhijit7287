@@ -9,21 +9,29 @@
 	border-radius:30px;
 	border: 2px solid #000;
 }
-.colored-block{
+.red {
+    background-color: #e74c3c; /* Red color */
+    display: inline-block;
+	width:80px;
+	height:50px;
+	border-radius:50px;
+	margin: 0 40px;
+      }
+
+ .green {
+     background-color: #2ecc71; /* Green color */
+	 display: inline-block;
+	width:80px;
+	height:50px;
+	border-radius:50px;
+	margin: 0 40px;
+        }
+
+.yellow {
+    background-color: #f1c40f; /* Yellow color */
 	display: inline-block;
 	width:80px;
 	height:50px;
 	border-radius:50px;
 	margin: 0 40px;
-}
- .red {
-            background-color: #e74c3c; /* Red color */
-      }
-
- .green {
-            background-color: #2ecc71; /* Green color */
-        }
-
-.yellow {
-            background-color: #f1c40f; /* Yellow color */
         }
