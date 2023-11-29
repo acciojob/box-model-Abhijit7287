@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.main{
+.container{
 	display:flex;
 	align-items:center;
 	justify-content: space-between;
